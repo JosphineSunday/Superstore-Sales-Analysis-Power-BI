@@ -52,7 +52,7 @@ Advanced Analytics
 Q&A Report
 ![Q&A Report](Dashboard_Screenshots/04_QA_Report.png)
 
-## 💡 Key Insights & Findings
+Key Insights & Findings
 *   Sales Trends: Sales show a clear upward trend across the four years, with notable seasonal spikes occurring in September and November.
 *   Geographical Performance: California and New York are the highest-performing states by a significant margin, while states like New Hampshire and Nebraska represent the lowest sales volume.
 *   Customer Segments: The Consumer segment drives the vast majority of sales throughout the year, consistently outperforming the Corporate and Home Office segments.
